@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanHannen&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+https://github.com/EthanHannen/GitStats/blob/master/generated/overview.svg
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanHannen&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+https://github.com/EthanHannen/GitStats/blob/master/generated/languages.svg
 <!--
 **EthanHannen/EthanHannen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
