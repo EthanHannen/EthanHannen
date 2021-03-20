@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![alt text](https://github.com/EthanHannen/GitStats/blob/master/generated/overview.svg)
+![overall_stats](https://github.com/EthanHannen/GitStats/blob/master/generated/overview.svg)
 
-https://github.com/EthanHannen/GitStats/blob/master/generated/languages.svg
+![top_languages](https://github.com/EthanHannen/GitStats/blob/master/generated/languages.svg)
 <!--
 **EthanHannen/EthanHannen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
