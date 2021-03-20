@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github.com/EthanHannen/GitStats/blob/master/generated/overview.svg
+![alt text](https://github.com/EthanHannen/GitStats/blob/master/generated/overview.svg)
 
 https://github.com/EthanHannen/GitStats/blob/master/generated/languages.svg
 <!--
